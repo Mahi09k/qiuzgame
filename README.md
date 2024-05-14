@@ -13,7 +13,7 @@ Welcome to the Simple Python Quiz Game! This project is a basic command-line qui
 1. **Clone the Repository:**
     - Clone the repository to your local machine using the following command:
     ```bash
-    https://github.com/Mahi09k/quizgame.git
+    git clone https://github.com/Mahi09k/quizgame.git
     ```
 
 2. **Navigate to the Project Directory:**
