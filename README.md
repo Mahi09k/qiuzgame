@@ -25,7 +25,7 @@ Welcome to the Simple Python Quiz Game! This project is a basic command-line qui
 3. **Run the Quiz Game:**
     - Launch the quiz game by executing the `quiz.py` file with Python:
     ```bash
-    python quiz.py
+    python3 quiz.py
     ```
 
 4. **Answer Questions:**
